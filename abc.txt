@@ -3,4 +3,7 @@ another b and a c
 
 I know this and that
 I did something
+<<<<<<< HEAD
 something interesting
+=======
+>>>>>>> 2e6045cc70859de7a9f7256a8b9b37c88c818249
